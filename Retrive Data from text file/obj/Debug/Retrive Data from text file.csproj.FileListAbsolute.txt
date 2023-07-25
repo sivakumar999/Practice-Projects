@@ -1,0 +1,8 @@
+M:\Simplilearn\Projects\sec6\Retrive Data from text file\Retrive Data from text file\bin\Debug\Retrive Data from text file.exe.config
+M:\Simplilearn\Projects\sec6\Retrive Data from text file\Retrive Data from text file\bin\Debug\Retrive Data from text file.exe
+M:\Simplilearn\Projects\sec6\Retrive Data from text file\Retrive Data from text file\bin\Debug\Retrive Data from text file.pdb
+M:\Simplilearn\Projects\sec6\Retrive Data from text file\Retrive Data from text file\obj\Debug\Retrive Data from text file.csproj.AssemblyReference.cache
+M:\Simplilearn\Projects\sec6\Retrive Data from text file\Retrive Data from text file\obj\Debug\Retrive Data from text file.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\Projects\sec6\Retrive Data from text file\Retrive Data from text file\obj\Debug\Retrive Data from text file.csproj.CoreCompileInputs.cache
+M:\Simplilearn\Projects\sec6\Retrive Data from text file\Retrive Data from text file\obj\Debug\Retrive Data from text file.exe
+M:\Simplilearn\Projects\sec6\Retrive Data from text file\Retrive Data from text file\obj\Debug\Retrive Data from text file.pdb
